@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MALIN-WEB", "SKLEP_ASP\MALIN-WEB.csproj", "{226A2D87-D8A5-4B49-9CFB-C83F5C3D53D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{226A2D87-D8A5-4B49-9CFB-C83F5C3D53D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226A2D87-D8A5-4B49-9CFB-C83F5C3D53D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226A2D87-D8A5-4B49-9CFB-C83F5C3D53D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226A2D87-D8A5-4B49-9CFB-C83F5C3D53D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF1A1D63-1E2E-4D3A-8FB4-29AA8ACF9D33}
+	EndGlobalSection
+EndGlobal
